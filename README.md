@@ -6,7 +6,7 @@ In the example below, we are measuring the entry of an MA system that looks at t
 
 ## Break Down of Charts
 Chart 1: Probability of Profit - This chart looks at the probability of closing the trade in a profit, if you were to hold for x amount of time.
-<iframe width="593" height="354" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3wvEPFf5bz9F0uukqdpQrTQIX1c1fXtzuQcfeyPOiH_Pv32r_VDwLiAWbk-gHcQn2-oqwDXrQozR5/pubchart?oid=483389060&amp;format=interactive"></iframe>
+
 
 Chart 2: This chart looks at the average MFE,  average MAE, and average Outcome of the entry for the corresponding holding periods on the x axis.
 
